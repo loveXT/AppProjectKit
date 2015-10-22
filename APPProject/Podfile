@@ -1,0 +1,6 @@
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'Masonry', '~> 0.6.2'
+pod 'AFNetworking', '~> 2.0'
+pod 'MJRefresh', '~> 2.4.10'
+pod 'SDWebImage','~>3.7'
+pod 'MJExtension', '~> 2.5.12'
